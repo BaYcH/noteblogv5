@@ -1,4 +1,5 @@
 
+## 项目已重构，此项目不在维护！，[点我前往](https://github.com/miyakowork/notepress_free)
 ## 获取最新版本及更新日志请前往：[点我前往](https://wuwenbin.me/article/u/noteblogv5_updates)
 开源版本：v5.0.0（2019/10/01日提交，此仓库只更新至5.0）<br/>
 最新版本：v5.9.1（2019/11/01日更新）（为了保持持续的更新，后续的更新都放在私有仓库中，需要的请前往[此处](https://wuwenbin.me)查看）
