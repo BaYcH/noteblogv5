@@ -1,5 +1,5 @@
 
-## 本项目已升级&重构，此项目不在维护！，[点我前往](https://github.com/miyakowork/notepress_free)
+## 本项目已升级&重构！[点我前往](https://github.com/miyakowork/notepress_free)
 开源版本：v5（2019/10/01日提交，此仓库只更新至5.0）<br/>
 
 ---
@@ -26,14 +26,8 @@
 + 更多的功能等待你去发现...
 
 ---
-## 截图预览
-[请查看](https://gitee.com/wuwenbn/noteblogv5/tree/master/screenshot)
-
-## 二次开发文档（持续更新中...）
-[点我前往](https://wuwenbin.me/article/5db02858e4b01c32641159c0)
-
-## 部署教程（持续更新中...）
-[点我前往](https://wuwenbin.me/article/u/noteblogv5_updates)
+## 部分截图预览
+[个人设置](screenshot/个人设置.png)
 
 ---
 ## 更新日志
