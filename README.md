@@ -1,9 +1,9 @@
 
-## 本项目已升级&重构！[点我前往](https://github.com/miyakowork/notepress_free)
-开源版本：v5（2019/10/01日提交，此仓库只更新至5.0）<br/>
+## 本项目已升级&重构(最新版本 notepress v2020.002)！[点我前往](https://github.com/miyakowork/notepress_free)
+开源版本：v5（2019/10/01日提交，最新版本noteblogv5.9）<br/>
 
 ---
-加入QQ群聊【[笔记博客 ~ 交流反馈：697053454](https://jq.qq.com/?_wv=1027&k=5ZEGGl8)】
+加入QQ群聊【[笔记博客 ~ 交流反馈：697053454](https://jq.qq.com/?_wv=1027&k=5ZEGGl8)】<br/>
 获取noteblogv5最新版本信息和SQL文件
 ---
 
