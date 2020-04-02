@@ -27,22 +27,25 @@
 
 ---
 ## 部分截图预览
-个人设置
-[](screenshot/个人设置.png)
-分类与标签管理
-[](screenshot/分类与标签管理.png)
-博客首页1
-[](screenshot/博客首页1.png)
-博客首页2
-[](screenshot/博客首页2.png)
-博客首页3
-[](screenshot/博客首页3.png)
-博客首页4
-[](screenshot/博客首页4.png)
-博客首页5
-[](screenshot/博客首页5.png)
-博客首页6
-[](screenshot/博客首页6.png)
+![](screenshot/个人设置.png)
+![](screenshot/分类与标签管理.png)
+![](screenshot/博客首页1.png)
+![](screenshot/博客首页2.png)
+![](screenshot/博客首页3.png)
+![](screenshot/博客首页4.png)
+![](screenshot/博客首页5.png)
+![](screenshot/博客首页6.png)
+![](screenshot/友链设置.png)
+![](screenshot/发布文章.png)
+![](screenshot/搜索结果页面.png)
+![](screenshot/文章发布.png)
+![](screenshot/文章管理.png)
+![](screenshot/文章详细页面1.png)
+![](screenshot/文章详细页面2.png)
+![](screenshot/文章详细页面3.png)
+![](screenshot/笔记页面1.png)
+![](screenshot/笔记页面2.png)
+![](screenshot/网站设置.png)
 
 
 ---
