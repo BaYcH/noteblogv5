@@ -1,6 +1,6 @@
 
-## 本项目已升级&重构(最新版本 notepress v2020.002)！[点我前往](https://github.com/miyakowork/notepress_free)
-开源版本：v5（2019/10/01日提交，最新版本noteblogv5.9）<br/>
+## 本项目已升级&重构(重构最新版本 notepress v2020.002)！[点我前往](https://github.com/miyakowork/notepress_free)
+当前项目开源版本：noteblogv5（当前项目最新版本noteblogv5.9）<br/>
 
 ---
 加入QQ群聊【[笔记博客 ~ 交流反馈：697053454](https://jq.qq.com/?_wv=1027&k=5ZEGGl8)】<br/>
